@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://neumaz66.github.io/portfolio](https://neumaz66.github.io/portfolio)
 
-- 📫 How to reach me **neumaz@tutamail.com**
+- 📫 How to reach me **box-neumaz@tutamail.com**
 
 - ⚡ Fun fact **I have a very garbage yet nice PC**
 
