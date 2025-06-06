@@ -1,15 +1,13 @@
-<h1 align="center">Hi 👋, I'm Abhinav</h1>
-<h3 align="center">A fullstack developer and malware analyst from Kerala, India.</h3>
 
-- 🔭 I’m currently working on **TypePilot**
+- 🔭 Currently working on **TypePilot**
 
-- 🌱 I’m currently learning **React and some other web frameworks**
+- 🌱 Currently learning **React and some other web frameworks**
 
-- 👯 I’m looking to collaborate on **any web projects (ye actually)**
+- 👯 Looking to collaborate on **any web projects (ye actually)**
 
-- 👨‍💻 All of my projects are available at [https://neumaz66.github.io/portfolio](https://neumaz66.github.io/portfolio)
+- 👨‍💻 My projects are available at [https://neumaz66.github.io/portfolio](https://neumaz66.github.io/portfolio)
 
-- 📫 How to reach me **box-neumaz@tutamail.com**
+- 📫 Mail **box-neumaz@tutamail.com**
 
 - ⚡ Fun fact **I have a very garbage yet nice PC**
 
